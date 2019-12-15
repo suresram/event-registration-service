@@ -1,4 +1,4 @@
-package com.s2.event.detail;
+package com.s2.event.registration;
 
 import static org.junit.Assert.assertTrue;
 
